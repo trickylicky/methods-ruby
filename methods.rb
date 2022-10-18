@@ -19,5 +19,4 @@ def halve int
     if int.class == Integer
         return int/2
     end
-    nil
 end
